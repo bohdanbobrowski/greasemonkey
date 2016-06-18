@@ -5,7 +5,7 @@ polonadownloadjpg
 ====
 Skrypt do pobierania pełnych publikacji z biblioteki polona.pl.
 
-Jeżeli chcesz pobrać jakąś interesującą publikację z biblioteki polona.pl a nie ma dostępnej wersji pdf czy djvu wystarczy żę:
+Jeżeli chcesz pobrać jakąś interesującą publikację z biblioteki polona.pl a nie ma dostępnej wersji pdf czy djvu wystarczy że:
 * odpalisz przeglądarkę w trybie umożliwiającym międzydomenowe odpalanie ajaxów: firefox --disable-web-security
 * wrzucisz do katalogu głównego swojego serwera plik php (serwer www musi mieć prawo zapisu nowych plików w tym katalogu)
 * zalogujesz się do polony,
